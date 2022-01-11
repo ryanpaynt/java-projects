@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "03-classes",
     "02-objects",
-    "03-classes"
+    "05-conditionals"
   ]
 }
